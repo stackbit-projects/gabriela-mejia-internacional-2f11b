@@ -28,13 +28,11 @@ seo:
       relativeUrl: true
 layout: page
 ---
-
-
 ## ![](/images/EXvszSTXYAADZvy.jpg)
 
 # **Productos Omnilife Seytu**
 
-Productos tradicionales y cosméticos 100% naturales, libres de quimicos y crueldad animal, para el uso de toda la familia
+Productos nutricionales y cosméticos 100% naturales, libres de quimicos y crueldad animal, para el uso de toda la familia
 
 ##
 
