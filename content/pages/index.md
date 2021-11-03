@@ -41,10 +41,20 @@ sections:
         media_width: sixty
       - title: Beneficios
         subtitle: '-Descuentos hasta el 40%'
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: |
+          *   Descuentos hasta el 40%
+
+          <!---->
+
+          *   Bonificaciones extas
+
+          <!---->
+
+          *   Construye una red de afiliados 
+
+          <!---->
+
+          *   Viajes por el mundo
         actions:
           - label: Learn More
             url: /about
