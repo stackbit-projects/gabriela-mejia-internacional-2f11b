@@ -15,7 +15,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: none
     background_image: /images/Negocio-5466c544.webp
     background_image_repeat: repeat
     background_image_size: contain
