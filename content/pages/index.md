@@ -34,13 +34,7 @@ sections:
           Al ser parte de mi equipo de emprendedores contaras con nuestro
           asesoramiento constante sobre el negocio, productos, marketing
           digital, formación de equipos y mucho mas
-        actions:
-          - label: See Writing Samples
-            url: /faq
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: /images/IMG_0685.jpg
         image_alt: Feature 1 illustration
         media_position: right
