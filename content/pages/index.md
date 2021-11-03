@@ -25,10 +25,17 @@ sections:
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          Soy Gabriela Mejia Montoya, Empresaria independiente Omnilife Seytu.
+          Desarrollo este proyecto al lado de mi esposo Kevin Blandon Castro.
+
+          Nuestra misión es ayudar a miles de personas en todo el mundo a
+          obtener una mejor calidad de vida con este grandioso sistema de
+          negocios.
+
+          Al ser parte de mi equipo de emprendedores contaras con nuestro
+          asesoramiento constante sobre el negocio, productos, marketing
+          digital, formación de equipos y mucho mas
         actions:
           - label: See Writing Samples
             url: /faq
