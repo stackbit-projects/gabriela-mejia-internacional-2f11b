@@ -23,8 +23,7 @@ sections:
   - type: features_section
     title: Acerca de mi
     features:
-      - subtitle: 'Website, blog, social media and more.'
-        content: >
+      - content: >
           Soy Gabriela Mejia Montoya, Empresaria independiente Omnilife Seytu.
           Desarrollo este proyecto al lado de mi esposo Kevin Blandon Castro.
 
