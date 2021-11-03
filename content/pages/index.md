@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Emprende conmigo
-    subtitle: Seytu Cosmetica
+    subtitle: Seytu Cosmetica y Omnilife Nutricion
     actions:
       - label: Contact Me
         url: /contact
