@@ -40,7 +40,6 @@ sections:
         media_position: right
         media_width: sixty
       - title: Beneficios
-        subtitle: '-Descuentos hasta el 40%'
         content: |
           *   Descuentos hasta el 40%
 
