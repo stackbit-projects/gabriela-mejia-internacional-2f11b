@@ -18,7 +18,7 @@ sections:
     background_color: primary
     background_image: /images/Negocio-5466c544.webp
     background_image_repeat: repeat
-    background_image_size: auto
+    background_image_size: cover
     background_image_opacity: 55
   - type: features_section
     title: Acerca de mi
